@@ -26,7 +26,9 @@ This project analyzes hospital emergency room data using Microsoft Excel to gene
 - Improved data-driven decision-making  
 
 ## 📷 Dashboard Preview
-(Dashboard Preview Hospital Excel.png)
+(## 📊 Dashboard Preview
+
+![Dashboard](Dashboard Preview Hospital Excel.png)
 
 ## 📁 Dataset
 Hospital Emergency Room Dataset (Excel)
