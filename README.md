@@ -31,6 +31,8 @@ This project analyzes hospital emergency room data using Microsoft Excel to gene
 ## 📊 Dashboard Preview
 
 ![Hospital Dashboard](Dashboard%20Preview%20Hospital%20Excel.png)
+## 📊 Dashboard Preview
 
+![Hospital Dashboard](dashboard.png)
 ## 📁 Dataset
 Hospital Emergency Room Dataset (Excel)
